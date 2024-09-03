@@ -6,11 +6,10 @@ Welcome to my projects repository! 🎉 This repository is a collection of vario
 - Provide resources for others to learn from 📚
 - Document my progress as a developer 📈
 
-## 🗂️ Projects
-
-Here are the projects included in this repository:
+## 📂 Table of Contents
 
 - [Gym Buddy App](#gym-buddy-app)
+- [To-Do List App](#to-do-list-app)
 
 ## 🏋️‍♂️ Gym Buddy App
 
@@ -29,3 +28,22 @@ A responsive web application designed to help users generate personalized workou
 - **Frontend:** React, JavaScript, Vite
 - **Styling:** Tailwind CSS
 - **Other Tools:** Git, REST API
+
+## ✅ To-Do List App
+
+A simple and functional To-Do List application built with React. This app helps users manage their tasks efficiently by allowing them to add, edit, delete, and mark tasks as complete or incomplete.
+
+### 📋 Features
+
+- **Add Tasks:** Quickly add new tasks to your list.
+- **Edit Tasks:** Modify existing tasks as needed.
+- **Delete Tasks:** Remove tasks from your list when no longer needed.
+- **Task Completion:** Mark tasks as complete or incomplete with a single click.
+- **Persistent Storage:** Utilizes browser's local storage to save tasks between sessions.
+- **Minimalist Design:** Clean and user-friendly interface.
+
+### 🔧 Tech Stack
+
+- **Frontend:** React, JavaScript, Vite
+- **Styling:** Tailwind CSS
+- **Other Tools:** Git, local storage API
